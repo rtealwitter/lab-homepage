@@ -1,6 +1,6 @@
 # lab-homepage
 
-Starter HTML and CSS files for CSCI 40.
+Starter HTML and CSS for a homepage about a topic you choose.
 
 - [Hello, Homepage](https://csci40.rtealwitter.com/topics/00_html/lab.html)
 - [Dress It Up](https://csci40.rtealwitter.com/topics/01_css/lab.html)
